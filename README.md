@@ -8,6 +8,8 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Swift](https://developer.apple.com/assets/elements/icons/swift/swift-64x64_2x.png)
+![React](https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png)
 
 ## About Me:
 I'm a software developer with a passion for learning and building new things. Here are some of the languages and tools I use regularly.
