@@ -8,7 +8,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Swift](https://developer.apple.com/assets/elements/icons/swift/swift-64x64_2x.png)
+![Swift](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/191px-Swift_logo.svg.png)
 ![React](https://raw.githubusercontent.com/react-icons/react-icons/master/react-icons.svg)
 
 ## About Me:
