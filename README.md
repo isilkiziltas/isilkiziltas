@@ -12,6 +12,9 @@
 
 ## About Me:
 I'm a software developer with a passion for learning and building new things. Here are some of the languages and tools I use regularly.
+ I am eager to explore and contribute to the dynamic landscape of software engineering by learning new technologies, solving complex problems, and collaborating on innovative projects. My goal is to continuously grow as a developer while making meaningful contributions to the tech industry.
+ ## GitHub Stats:
+ ![isilkiziltas GitHub Stats](https://github-readme-stats.vercel.app/api?username=isilkiziltas&show_icons=true&theme=radical)
 
 ## Contact:
 - Email: [isilkizilts@gmail.com](mailto:isilkiizlts@gmail.com)
