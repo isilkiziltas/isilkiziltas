@@ -17,5 +17,4 @@ I'm a software developer with a passion for learning and building new things. He
  ![isilkiziltas GitHub Stats](https://github-readme-stats.vercel.app/api?username=isilkiziltas&show_icons=true&theme=radical)
 
 ## Contact:
-- Email: [isilkizilts@gmail.com](mailto:isilkiizlts@gmail.com)
 - LinkedIn: [isilkiziltas](https://linkedin.com/in/https://www.linkedin.com/in/i%C5%9F%C4%B1l-k%C4%B1z%C4%B1lta%C5%9F-5902b826a/)
