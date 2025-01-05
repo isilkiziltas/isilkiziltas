@@ -9,8 +9,7 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Postman](https://voyager.postman.com/logo/postman-logo-icon-orange.svg)
-![Firebas](https://www.gstatic.com/devrel-devsite/prod/v5ab6fd0ad9c02b131b4d387b5751ac2c3616478c6dd65b5e931f0805efa1009c/firebase/images/lockup.svg)
-![Flutter](https://www.gstatic.com/devrel-devsite/prod/v5ab6fd0ad9c02b131b4d387b5751ac2c3616478c6dd65b5e931f0805efa1009c/firebase/images/lockup.svg)
+![Flutter](https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg)
 
 ## About Me:
 I'm a software developer with a passion for learning and building new things. Here are some of the languages and tools I use regularly.
