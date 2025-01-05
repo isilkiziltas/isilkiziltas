@@ -29,6 +29,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> 
   <!-- Postman -->
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  <!--Amazon EC2 -->
+  <img src="https://simpleicons.org/icons/amazonec2.svg" alt="Amazon EC2" width="40" height="40"/>
 </p>
 
 ## About Me:
