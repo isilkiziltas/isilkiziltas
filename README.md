@@ -10,6 +10,7 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Postman](https://voyager.postman.com/logo/postman-logo-icon-orange.svg)
 ![Flutter](https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg)
+![Dart](https://dart.dev/assets/img/logo/logo-white-text.svg)
 
 ## About Me:
 I'm a software developer with a passion for learning and building new things. Here are some of the languages and tools I use regularly.
