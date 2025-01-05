@@ -6,7 +6,7 @@
 
 <p align="center">
   <!-- AWS -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" alt="aws" width="40" height="40"/> 
+  <img src="https://simpleicons.org/icons/amazonwebservices.svg" alt="aws" width="40" height="40"/> 
   <!-- C -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   <!-- C++ -->
