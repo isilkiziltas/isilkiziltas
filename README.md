@@ -4,7 +4,7 @@
 
 ## Languages and Tools:
 
-<p align="center">
+<p align="left">
   <!-- AWS -->
   <img src="https://simpleicons.org/icons/amazonwebservices.svg" alt="aws" width="40" height="40"/> 
   <!-- C -->
