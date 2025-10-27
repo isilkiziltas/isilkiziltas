@@ -1,5 +1,5 @@
-## Hi there 👋
-# Hi there, I'm [Işıl Kızıltaş] 👋
+# Hi there 👋
+# I'm [Işıl Kızıltaş] 👋
 
 
 ## Languages and Tools:
